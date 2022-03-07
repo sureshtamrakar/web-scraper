@@ -1,0 +1,5 @@
+dbusername : root
+dbpassword : ""
+dbhost : localhost
+dbname : go-scraper
+jwtkey : "UWX124YCAS91"
